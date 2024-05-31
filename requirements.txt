@@ -29,6 +29,6 @@ starlette==0.37.2
 typer==0.12.3
 typing_extensions==4.11.0
 ujson==5.9.0
-uvicorn==0.29.0
+uvicorn==0.30.0
 watchfiles==0.21.0
 websockets==12.0
